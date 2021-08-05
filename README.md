@@ -1,5 +1,7 @@
 # iota.rs-wasm-example for Node.js
 
+Gets the nodeinfo, sends a message with data and retrieves it again
+
 ```
 git clone https://github.com/Thoralf-M/iota.rs-wasm-example
 ```
