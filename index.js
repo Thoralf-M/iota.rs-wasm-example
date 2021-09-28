@@ -1,4 +1,4 @@
-const { ClientBuilder } = require('test-iota-client-wasm/node')
+const { ClientBuilder } = require('@iota/client-wasm/node')
 
 async function main() {
     let client = await new ClientBuilder().node("https://api.lb-0.h.chrysalis-devnet.iota.cafe/").build();

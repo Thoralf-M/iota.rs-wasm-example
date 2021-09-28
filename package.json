@@ -12,6 +12,6 @@
   "author": "Thoralf Müller",
   "license": "MIT",
   "dependencies": {
-    "test-iota-client-wasm": "^0.0.8"
+    "@iota/client-wasm": "^0.1.1"
   }
 }
